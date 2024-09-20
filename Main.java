@@ -13,6 +13,4 @@ public class Main {
     gradingAdapter.integrateSystem();
     libraryAdapter.integrateSystem();
     }
-}
-    
-    
+}  
